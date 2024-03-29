@@ -30,6 +30,8 @@ Welcome to the ToDo App! This project is a simple yet powerful task management a
 
 ## Demo
 Check out the live demo of the ToDo App [here](#).
+<img width="922" alt="image" src="https://github.com/ibshaikh/To-Do-App-Using-ReactJS/assets/123507618/391553d8-856b-45e3-a794-00971c7e8651">
+
 
 ## Developer
 Meet the creator behind this project:
