@@ -1,70 +1,46 @@
-# Getting Started with Create React App
+# ToDo App Using ReactJS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Introduction
+Welcome to the ToDo App! This project is a simple yet powerful task management application built using React. It provides users with a convenient way to organize their tasks and stay productive.
 
-## Available Scripts
+## Features
+- Add new tasks: Easily add new tasks with a title and optional description.
+- Mark tasks as completed: Keep track of completed tasks by marking them as done.
+- Delete tasks: Remove unwanted tasks from the list.
+- Filter tasks: Filter tasks based on their completion status (all, active, completed).
+- Responsive design: Enjoy a seamless experience across various devices and screen sizes.
 
-In the project directory, you can run:
+## Technologies Used
+- React: Frontend JavaScript library for building user interfaces.
+- HTML: Markup language for structuring the application.
+- CSS: Stylesheets for styling the components and layout.
 
-### `npm start`
+## Getting Started
+1. Clone this repository to your local machine.
+2. Navigate to the project directory in your terminal.
+3. Run `npm install` to install the project dependencies.
+4. Run `npm start` to start the development server.
+5. Open your web browser and navigate to `http://localhost:3000` to view the app.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Usage
+1. Add a new task by entering a title in the input field and pressing enter.
+2. Mark a task as completed by clicking the checkbox next to it.
+3. Delete a task by clicking the delete icon next to it.
+4. Filter tasks by selecting one of the filter options (all, active, completed) at the bottom of the list.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Demo
+Check out the live demo of the ToDo App [here](#).
 
-### `npm test`
+## Developer
+Meet the creator behind this project:
+- **Ibram Shaikh**
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-ibram--shaikh-blue?logo=linkedin)](https://www.linkedin.com/in/ibram-shaikh-5a3881191/)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Contributing
+Contributions to the project are welcome! Feel free to submit bug reports, feature requests, or pull requests to help improve the app.
 
-### `npm run build`
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Acknowledgements
+Special thanks to the React community for their amazing contributions and support in building this ToDo App.
